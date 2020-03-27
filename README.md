@@ -23,7 +23,7 @@ the transition dairy cow.
 [![Watch the
 video](https://img.youtube.com/vi/_mi1PfdeV90/hqdefault.jpg)](https://www.youtube.com/watch?v=_mi1PfdeV90)
 
-  - [Link to Literature](1_TheUniquePhysiologyOfTheDairyCow/Literature/)
+  - [Link to Literature](1_Physiology/Literature/)
 
 # Feeding the transition dairy cow
 
