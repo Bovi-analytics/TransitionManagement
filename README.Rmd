@@ -20,6 +20,10 @@ This first session will introduce Miel Hostens as teacher for the different sess
 
 <iframe width="400" height="250" 
 src="https://www.youtube.com/embed/bT79VMQOnrs" 
+frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe width="400" height="250" 
+src="https://www.youtube.com/embed/bT79VMQOnrs" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The industry
