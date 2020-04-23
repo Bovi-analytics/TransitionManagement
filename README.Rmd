@@ -19,7 +19,7 @@ This first session will introduce Miel Hostens as teacher for the different sess
 [Link to the raw presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs" 
-frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 ## The industry
 
