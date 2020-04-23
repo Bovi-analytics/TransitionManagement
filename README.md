@@ -31,10 +31,6 @@ presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
 </iframe>
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
-
 ## The industry
 
 This session will focus on a broader and general introduction to the
