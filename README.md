@@ -33,8 +33,6 @@ presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs">
 
- 
-
 </iframe>
 
 ## The industry
