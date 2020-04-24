@@ -24,17 +24,9 @@ the transition dairy cow.
 This first session will introduce Miel Hostens as teacher for the
 different sessions.
 
-<!-- blank line -->
-
-<figure class="video_container">
-
 <iframe src="https://www.youtube.com/embed/bT79VMQOnrs" frameborder="0" allowfullscreen="true">
 
-</iframe>
-
-</figure>
-
-<!-- blank line -->
+\</iframe\>
 
 [Link to the raw
 presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
