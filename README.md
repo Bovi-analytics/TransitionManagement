@@ -30,10 +30,6 @@ presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 [![Alt
 text](https://img.youtube.com/vi/bT79VMQOnrs/0.jpg)](https://www.youtube.com/watch?v=bT79VMQOnrs)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bT79VMQOnrs" target="_blank">
-<img src="http://img.youtube.com/vi/bT79VMQOnrs/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-</a>
-
 ## The industry
 
 This session will focus on a broader and general introduction to the
@@ -45,13 +41,11 @@ The poll which you are requested to fill in is
 [Link to the raw
 presentation](https://prezi.com/view/fhX2xHhhiYPfEn76McCe/)
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/VqvdjKvdBDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+[![Alt
+text](https://img.youtube.com/vi/VqvdjKvdBDk/0.jpg)](https://www.youtube.com/watch?v=VqvdjKvdBDk)
 
-</iframe>
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/Ey5UNYJ9ZRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
+[![Alt
+text](https://img.youtube.com/vi/Ey5UNYJ9ZRM/0.jpg)](https://www.youtube.com/watch?v=Ey5UNYJ9ZRM)
 
 # The unique transition dairy cow
 
@@ -63,9 +57,8 @@ The course starts with the basic physiology of the dairy cow.
 presentation](https://prezi.com/view/v2KDzmGQYWlFd7iFpljO/) and a [link
 to literature cited](1_Physiology/Literature/)
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/pgrZpJBpseE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
+[![Alt
+text](https://img.youtube.com/vi/pgrZpJBpseE/0.jpg)](https://www.youtube.com/watch?v=pgrZpJBpseE)
 
 ## Energy metabolism
 
@@ -73,13 +66,11 @@ to literature cited](1_Physiology/Literature/)
 presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/) and a [link
 to literature cited](2_EnergyMetabolism/Literature/)
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/D_fpTZ06tXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+[![Alt
+text](https://img.youtube.com/vi/D_fpTZ06tXU/0.jpg)](https://www.youtube.com/watch?v=D_fpTZ06tXU)
 
-</iframe>
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/7ri6sRG4d8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
+[![Alt
+text](https://img.youtube.com/vi/7ri6sRG4d8I/0.jpg)](https://www.youtube.com/watch?v=7ri6sRG4d8I)
 
 # Transition disease and its short and long term effects
 
