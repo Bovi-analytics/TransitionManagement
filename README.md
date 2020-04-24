@@ -27,9 +27,7 @@ different sessions.
 [Link to the raw
 presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs" frameborder="0" allowfullscreen="allowfullscreen">
-
- 
+<iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs">
 
 </iframe>
 
