@@ -26,7 +26,7 @@ different sessions.
 
 <iframe src="https://www.youtube.com/embed/bT79VMQOnrs" frameborder="0" allowfullscreen="true">
 
-\</iframe\>
+</iframe>
 
 [Link to the raw
 presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
