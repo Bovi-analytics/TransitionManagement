@@ -24,16 +24,15 @@ the transition dairy cow.
 This first session will introduce Miel Hostens as teacher for the
 different sessions.
 
-\<div align=“center”\> <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/OhlVBpEnjig"> </iframe>
-\</div\>
-
 [Link to the raw
 presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
-<iframe width="400" height="250" src="https://www.youtube.com/embed/bT79VMQOnrs">
+[![Alt
+text](https://img.youtube.com/vi/bT79VMQOnrs/0.jpg)](https://www.youtube.com/watch?v=bT79VMQOnrs)
 
-</iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bT79VMQOnrs" target="_blank">
+<img src="http://img.youtube.com/vi/bT79VMQOnrs/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
 
 ## The industry
 
