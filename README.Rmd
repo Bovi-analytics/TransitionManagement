@@ -16,7 +16,11 @@ The goal of the current course is to gain insights in the uniqueness of the tran
 
 This first session will introduce Miel Hostens as teacher for the different sessions.
 
-<iframe src="https://www.youtube.com/embed/bT79VMQOnrs" frameborder="0" allowfullscreen="true"> </iframe>
+&lt;div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/OhlVBpEnjig">
+    </iframe>
+&lt;/div>
 
 [Link to the raw presentation](https://prezi.com/view/eOCdI7EIZmOEwEQP6lG4/)
 
